@@ -55,6 +55,3 @@ Detailed evaluation and analysis are available in:
 - Complete implementation is provided in the `src/` folder as a Jupyter Notebook.
 
 ---
-
-## Documentation
-Detailed methodology and analysis are available in:
